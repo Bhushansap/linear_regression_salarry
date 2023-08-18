@@ -1,1 +1,1 @@
-# linear_Regression_Salary
+# salary_prediction_linear_regression
